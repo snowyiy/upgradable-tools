@@ -1,0 +1,11 @@
+{
+    "comment" : "ceci est un test de datapack minecraft en 1.17",
+    "type" : "smithing",
+
+    "base" : {"item" : "minecraft:iron_pickaxe"},
+
+    "addition" : {"item" : "minecraft:diamond"},
+    
+    "result" : {"item" : "minecraft:diamond_pickaxe"}
+
+}
